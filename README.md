@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -71,3 +72,10 @@ export default defineConfig([
   },
 ])
 ```
+=======
+Ini adalah Repository dari Projek PWEB Kami yang berjudul AGRISMART
+Dengan Nama Anggota :
+- Parikesit Putra Pratomo 187241053
+- Hawa 
+- Mohammad Nafi Ainur Riskiyanto 187241084
+>>>>>>> 1abebb42681bc6b71acd1997e5fe1da4c03c1ced
