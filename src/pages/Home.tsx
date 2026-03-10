@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Home = () => {
+const Home = () => {hy
   return (
     <div>
     <header className="flex items-center p-4 relative bg-green-400 w-full">
