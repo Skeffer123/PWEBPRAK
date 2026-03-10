@@ -13,7 +13,7 @@ const Home = () => {
 
         <nav className="ml-auto flex gap-6">
             <a href="Login" className="hover:text-green-600">Login</a>
-            <a href="Sign_up" className="hover:text-green-600">Daftar</a>
+            <a href="Signup" className="hover:text-green-600">Daftar</a>
         </nav>
     </header>
 

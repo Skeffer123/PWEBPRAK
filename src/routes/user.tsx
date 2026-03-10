@@ -1,5 +1,8 @@
-export default function UserRouter() : Routers {
+export default function AdminRouter(): Routers {
     return [
-
+{
+  path: "/user",
+  element: <div>User Page</div>,
+}
     ]
 }
